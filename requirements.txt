@@ -1,0 +1,3 @@
+-r requirements/windows.txt
+sympy 
+scipy==1.6.1
